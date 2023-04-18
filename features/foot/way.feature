@@ -30,6 +30,7 @@ Feature: Foot - Accessability of different way types
             | pier           | x    |
             | cycleway       |      |
             | bridleway      |      |
+            | proposed       |      |
 
     Scenario: Foot - Basic access
         Then routability should be
